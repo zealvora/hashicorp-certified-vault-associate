@@ -1,0 +1,2 @@
+# hashicorp-certified-vault-associate
+ 
