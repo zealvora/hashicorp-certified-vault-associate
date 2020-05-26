@@ -10,12 +10,16 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 | 1 | [Installing Vault - Windows Users][PlDa] |
 | 2 | [Installing Vault - Linux and Mac Users][PlDb] |
 | 3 | [Initializing Vault with Dev Server Mode][PlDc] |
-| 3 | [Creating our First Secret][PlDc] |
-| 3 | [Overview of Secrets Engine][PlDc] |
-| 3 | [Managing Leases][PlDc] |
-| 3 | [Overview of Transit Secret Engine][PlDc] |
+| 4 | [Creating our First Secret][PlDd] |
+| 5 | [Overview of Secrets Engine][PlDe] |
+| 6 | [Managing Leases][PlDf] |
+| 7 | [Overview of Transit Secret Engine][PlDg] |
 
 
-   [PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/first-ec2.md>
-   [PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/do_droplet.tf>
-   [PlDc]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%201%20-%20Deploying%20Infrastructure%20with%20Terraform/desired-current-state.md>
+   [PlDa]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-windows.md>
+   [PlDb]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/install-vault-unix.md>
+   [PlDc]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/dev-mode.md>
+   [PlDd]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/managing-secrets.md>
+   [PlDe]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/secret-engine.md>
+   [PlDf]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/lease-management.md>
+   [PlDg]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%201%20-%20Getting%20Started%20with%20Vault/transit-engine.md>
