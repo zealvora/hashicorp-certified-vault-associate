@@ -17,3 +17,4 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 [PlDb]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/vault-ui.md>
 [PlDc]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/agent-autoauth.md>
 [PlDd]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/agent-caching.md>
+[PlDe]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/audit-device.md>
