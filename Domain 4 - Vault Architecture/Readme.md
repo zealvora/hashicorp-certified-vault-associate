@@ -14,6 +14,7 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 | 5 | [Audit Device][PlDe] |
 | 6 | [Implementing Vault HA][PlDf] |
 | 7 | [Raft Storage - Snapshot and Restore][PlDg] |
+| 8 | [Implementing Auto-Unseal with AWS KMS][PlDh] |
 
 [PlDa]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/prod-vault.md>
 [PlDb]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/vault-ui.md>
@@ -22,3 +23,5 @@ The code mentioned in this document are used in the HashiCorp Certified Vault As
 [PlDe]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/audit-device.md>
 [PlDf]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/ha-storage.md>
 [PlDg]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/raft-backup-restore.md>
+[PlDh]: <https://github.com/zealvora/hashicorp-certified-vault-associate/blob/master/Domain%204%20-%20Vault%20Architecture/unseal.md>
+
