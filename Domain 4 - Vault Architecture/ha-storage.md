@@ -69,7 +69,7 @@ listener "tcp" {
 disable_mlock = true
 api_addr = "http://127.0.0.1:8220"
 cluster_addr = "http://127.0.0.1:8221"
-
+```
 ```sh
 vault server -config=config-node02.hcl
 ```
